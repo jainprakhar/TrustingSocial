@@ -1,0 +1,18 @@
+Docker namespaces 60min
+Python primer 45min
+Golang 30min
+Turning DB inside out 45min
+Kappa Architecture 45min
+Communicating Over Distance 60min
+Hype-Driven Development 45min
+Scala Logging 30min
+Sit Down and Write 30min
+Pair Programming vs Noise 45min
+Node nods 60min
+Move over React 60min
+Erlang anyone 45min
+Programming in the Boondocks of Seattle 30min
+Functionals : a comparison 30min
+Legacy App Maintenance 60min
+When there is no Medium 30min
+UI for U and I 30min
